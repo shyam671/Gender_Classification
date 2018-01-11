@@ -1,0 +1,11 @@
+Male
+'AbrahamLincoln','AlbertEinstein','AamirKhan','BarackObama','AamirKhan','BhagatSingh','BillGates','BruceLee','CharlieChaplin','CheGuevara','DalaiLama','DanielCraig','DanielRadicliffe'
+'DavidBeckham','DwayneJohnson','EmmaWatson','GeorgeClooney','HughJackman','JackieChan','JawaharlalNehru','JimCarrey','JohnLennon','JohnnyDepp','JustinBieber','KatrinaKaif'
+'DiCaprio'
+
+Female
+'AishwaryaRai','AngelinaJolie','BritneySpears','EmmaWatson','HillaryClinton','KatrinaKaif','LataMangeshkar','MarilynMonroe','MeganFox','MotherTeresa','OprahWinfrey',
+'PrincessDiana','ScarlettJohansson','SelenaGomez','Shakira','TaylorSwift','AngelaMerkel','Beyonce','IndiraGandhi','J.K.Rowling','KateMiddleton','MargaretThatcher','NicoleKidman'
+'QueenElizabeth'
+
+
